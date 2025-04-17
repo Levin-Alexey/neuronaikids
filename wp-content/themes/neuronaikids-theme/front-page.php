@@ -34,12 +34,12 @@
 
             <!-- Градиентное ночное небо -->
             <!-- Плавающий слой звёзд на фоне -->
-            <div class="stars-layer"></div>
+              <div class="stars-layer"></div>
 
-            <!-- Градиентное ночное небо -->
-            <div class="sky-background"></div>
+               <!-- Градиентное ночное небо -->
+              <div class="sky-background"></div>
 
-            <!-- Анимированные звезды -->
+              <!-- Анимированные звезды -->
             <!--  <div class="stars">
                  <div class="star" style="top: 10%; left: 6%; animation-delay: 0s;"></div>
                  <div class="star" style="top: 24%; left: 20%; animation-delay: 1.1s;"></div>
@@ -75,7 +75,7 @@
                         <stop offset="100%" stop-color="#309be3" />
                     </linearGradient>
                 </defs>
-                <path d="M0,150 C480,50 960,150 1440,50 L1440,0 L0,0 Z" fill="url(#waveGradient)" />
+                <path d="M0,0 C480,100 960,0 1440,100 L1440,150 L0,150 Z" fill="url(#waveGradient)" />
             </svg>
             <div class="container">
                 <div class="section-title">
