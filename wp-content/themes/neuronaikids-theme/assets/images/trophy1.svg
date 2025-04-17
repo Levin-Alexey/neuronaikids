@@ -1,0 +1,16 @@
+<svg preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  viewBox="0 0 34.834 34.834">
+  <defs>
+    <filter id="Path_1000" x="0" y="0"  filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="trophy" transform="translate(6.485 3.502)">
+    <g transform="matrix(1, 0, 0, 1, -6.48, -3.5)" filter="url(#Path_1000)">
+      <path id="Path_1000-2" data-name="Path 1000" d="M17.964,4.87h-1.87V3H6.741V4.87H4.87A1.876,1.876,0,0,0,3,6.741v.935A4.668,4.668,0,0,0,7.106,12.3a4.685,4.685,0,0,0,3.376,2.768v2.9H6.741v1.87h9.352v-1.87H12.352v-2.9A4.685,4.685,0,0,0,15.729,12.3a4.668,4.668,0,0,0,4.106-4.62V6.741A1.876,1.876,0,0,0,17.964,4.87ZM4.87,7.676V6.741h1.87v3.573A2.815,2.815,0,0,1,4.87,7.676Zm13.093,0a2.815,2.815,0,0,1-1.87,2.637V6.741h1.87Z" transform="translate(6 3)" fill="#fcfdff"/>
+    </g>
+  </g>
+</svg>

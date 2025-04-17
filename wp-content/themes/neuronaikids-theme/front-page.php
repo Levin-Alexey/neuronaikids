@@ -68,28 +68,45 @@
 
 
         <section class="advantages">
+            <svg class="wave wave-bottom" viewBox="0 0 1440 150" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+                <defs>
+                    <linearGradient id="waveGradientBottom" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop offset="0%" stop-color="#2b3dbf" />
+                        <stop offset="100%" stop-color="#309be3" />
+                    </linearGradient>
+                </defs>
+                <path d="M0,150 C480,50 960,150 1440,50 L1440,0 L0,0 Z" fill="url(#waveGradient)" />
+            </svg>
             <div class="container">
                 <div class="section-title">
                     <h2><span>ПОЧЕМУ</span><br><strong class="highlight, gradient-text">NEURON_AI_KIDS?</strong></h2>
                     <p>Мы верим, что Neuronaikids — это не просто обучение, это увлекательное путешествие в мир ИТ. <br>
                         Наш ИИ-наставник помогает детям осваивать программирование весело, понятно и эффективно.</p>
                 </div>
-                <div class="advantage-wrapper">
-                    <div class="advantage-items">
-                        <div class="item">
-                            <p class="gradient-text">на 82%</p>
-                            <p>увеличивается вовлеченность ребёнка</p>
+                <section class="custom-advantages">
+                    <div class="container custom-cards">
+        <!--   <div class="adv-card">
+                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/self-taught-icon1.svg" alt="Self Taught">
+                            <h3>Collaborative Learning</h3>
+                            <p>Our Dojos encourage collaboration with like-minded peers!</p>
+                        </div>-->
+                        <div class="adv-card">
+                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/learn-in-isolation-icon1.svg" alt="Guided Education">
+                            <h3>Guided Education</h3>
+                            <p>Our highly trained Senseis provide expert guidance support when your child is stuck!</p>
                         </div>
-                        <div class="item">
-                            <p class="gradient-text">на 60%</p>
-                            <p>лучше запоминаются темы</p>
+                        <div class="adv-card">
+                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/one-size-fits-all-icon1.svg" alt="Flexible Curriculum">
+                            <h3>Flexible Curriculum</h3>
+                            <p>Our curriculum is tailored to your child's skillset!</p>
                         </div>
-                        <div class="item">
-                            <p class="gradient-text">на 43%</p>
-                            <p>родители довольны прогрессом</p>
+                        <div class="adv-card">
+                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/trophy1.svg" alt="Rewarding Community">
+                            <h3>Rewarding Community</h3>
+                            <p>Our global community of Black Belt Ninjas have the opportunity to share their creations with the world!</p>
                         </div>
                     </div>
-                </div>
+                </section>
             </div>
             <div class="bubble bubble-1"></div>
             <div class="bubble bubble-2"></div>

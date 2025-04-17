@@ -1,0 +1,22 @@
+<svg preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34.507" height="31.437" viewBox="0 0 34.507 31.437">
+  <defs>
+    <filter id="Path_780" x="0" y="1.428" width="34.507" height="30.009" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_2267" data-name="Group 2267" transform="translate(7)">
+    <rect id="Rectangle_1268" data-name="Rectangle 1268" width="1.651" height="0.825" transform="translate(9.428 6.603)" fill="#f6f7f8"/>
+    <rect id="Rectangle_1269" data-name="Rectangle 1269" width="1.651" height="0.825" transform="translate(9.428 3.301)" fill="#f6f7f8"/>
+    <rect id="Rectangle_1270" data-name="Rectangle 1270" width="1.651" height="0.825" transform="translate(9.428 8.253)" fill="#f6f7f8"/>
+    <g transform="matrix(1, 0, 0, 1, -7, 0)" filter="url(#Path_780)">
+      <path id="Path_780-2" data-name="Path 780" d="M17.681,11.476V9a10.833,10.833,0,0,0-6.9,2.477H9.72A10.832,10.832,0,0,0,2.825,9v2.476A.825.825,0,0,0,2,12.3v1.651a.825.825,0,0,0,.825.825v3.3a10.856,10.856,0,0,1,7.428,2.93,10.894,10.894,0,0,1,7.428-2.93v-3.3a.825.825,0,0,0,.825-.825V12.3A.825.825,0,0,0,17.681,11.476Z" transform="translate(7 -1.57)" fill="#f6f7f8"/>
+    </g>
+    <circle id="Ellipse_332" data-name="Ellipse 332" cx="0.825" cy="0.825" r="0.825" transform="translate(6.952 2.476)" fill="#f6f7f8"/>
+    <circle id="Ellipse_333" data-name="Ellipse 333" cx="0.825" cy="0.825" r="0.825" transform="translate(11.904 2.476)" fill="#f6f7f8"/>
+    <path id="Path_781" data-name="Path 781" d="M14.079,6.6h-6.6A2.479,2.479,0,0,1,5,4.127V2.476A2.479,2.479,0,0,1,7.476,0h6.6a2.479,2.479,0,0,1,2.476,2.476V4.127A2.479,2.479,0,0,1,14.079,6.6Zm-6.6-4.952a.826.826,0,0,0-.825.825V4.127a.826.826,0,0,0,.825.825h6.6a.826.826,0,0,0,.825-.825V2.476a.826.826,0,0,0-.825-.825Z" transform="translate(-0.524)" fill="#f6f7f8"/>
+  </g>
+</svg>
