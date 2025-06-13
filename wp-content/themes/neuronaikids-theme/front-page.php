@@ -61,6 +61,7 @@
                       fill="url(#waveGradient)"/>
             </svg>
 
+
             <!-- Нижняя волна! -->
 
         </section>
@@ -81,7 +82,7 @@
                 <div class="section-title">
                     <h2><span>ПОЧЕМУ</span><br><strong class="highlight, gradient-text">NEURON_AI_KIDS?</strong></h2>
                     <p>Мы верим, что Neuronaikids — это не просто обучение, это увлекательное путешествие в мир ИТ. <br>
-                        Наш ИИ-наставник помогает детям осваивать программирование весело, понятно и эффективно.</p>
+                        Наши профессиональные преподаватели вместе с ИИ-наставником помогают детям осваивать программирование весело, понятно и эффективно.</p>
                 </div>
                 <section class="custom-advantages">
                     <div class="container custom-cards">
@@ -91,22 +92,89 @@
                             <p>Our Dojos encourage collaboration with like-minded peers!</p>
                         </div>-->
                         <div class="adv-card">
-                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/learn-in-isolation-icon1.svg" alt="Guided Education">
-                            <h3>Guided Education</h3>
-                            <p>Our highly trained Senseis provide expert guidance support when your child is stuck!</p>
+                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/trophy1.svg" alt="Guided Education">
+                            <h3>НА 67%</h3>
+                            <p>УВЕЛИЧИВАЕТСЯ ВОВЛЕЧЕННОСТЬ РЕБЕНКА В УЧЕБНЫЙ ПРОЦЕСС</p>
                         </div>
                         <div class="adv-card">
                             <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/one-size-fits-all-icon1.svg" alt="Flexible Curriculum">
-                            <h3>Flexible Curriculum</h3>
-                            <p>Our curriculum is tailored to your child's skillset!</p>
+                            <h3>НА 43%</h3>
+                            <p>ПОВЫШАЕТСЯ ПОНИМАНИЕ СЛОЖНЫХ ТЕМ</p>
                         </div>
                         <div class="adv-card">
-                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/trophy1.svg" alt="Rewarding Community">
-                            <h3>Rewarding Community</h3>
-                            <p>Our global community of Black Belt Ninjas have the opportunity to share their creations with the world!</p>
+                            <img class="adv-icon" src="<?php echo get_template_directory_uri(); ?>/assets/images/learn-in-isolation-icon1.svg" alt="Rewarding Community">
+                            <h3>НА 86%</h3>
+                            <p>УВЕЛИЧИВАЕТСЯ ПЕРСОНАЛИЗАЦИЯ УЧЕБНОГО ПРОЦЕССА</p>
                         </div>
                     </div>
                 </section>
+                <section class="year-program-section">
+                    <div class="container text-center py-5">
+                        <h5 class="text-primary mb-2 section-title h2">ПРОГРАММЫ НАШЕЙ ШКОЛЫ</h5>
+                        <h2 class="fw-bold">
+                            <span class="text-primary gradient-text">ДЛЯ ВАШЕГО РЕБЕНКА</span>
+                        </h2>
+                    </div>
+                </section>
+
+                    <section class="gradient-overlay-block fullwidth-fix">
+                        <div class="gradient-layer"></div>
+                        <div class="scratch-section">
+                            <div class="scratch-left">
+                                <img src="/wp-content/themes/neuronaikids-theme/assets/images/create bg.png" alt="BG Shape" class="scratch-bg">
+                                <img src="/wp-content/themes/neuronaikids-theme/assets/images/scratch.jpg" alt="Scratch Demo" class="scratch-foreground">
+                            </div>
+
+                            <div class="scratch-right">
+                                <p class="scratch-age">ВОЗРАСТ ОТ 5 ДО 7 ЛЕТ</p>
+                                <h3 class="scratch-heading">Знакомство с компьютером и первые шаги в программировании</h3>
+                                <h2 class="scratch-title">JUNIOR</h2>
+                                <p class="scratch-description">
+                                    Это увлекательное погружение в мир технологий через игру и творчество. Ребята учатся основам компьютерной грамотности и делают первые шаги в программировании с помощью интерактивных платформ, таких как ScratchJr, CodeMonkey и Blockly. Занятия развивают логическое мышление, внимание и уверенность в работе с компьютером
+                                </p>
+                                <a href="#" class="btn btn-learn-more">LEARN MORE</a>
+                            </div>
+                        </div>
+                    </section>
+                <section class="gradient-overlay-block fullwidth-fix gradient-overlay-block2">
+                    <div class="gradient-layer"></div>
+                    <div class="scratch-section">
+                        <div class="scratch-left">
+                            <img src="/wp-content/themes/neuronaikids-theme/assets/images/jr bg.webp" alt="BG Shape" class="scratch-bg">
+                            <img src="/wp-content/themes/neuronaikids-theme/assets/images/maxresdefault%20(1).jpg" alt="Scratch Demo" class="scratch-foreground">
+                        </div>
+
+                        <div class="scratch-right">
+                            <p class="scratch-age scratch-age2">ВОЗРАСТ ОТ 5 ДО 7 ЛЕТ</p>
+                            <h3 class="scratch-heading">Знакомство с компьютером и первые шаги в программировании</h3>
+                            <h2 class="scratch-title scratch-title2">JUNIOR</h2>
+                            <p class="scratch-description">
+                                Это увлекательное погружение в мир технологий через игру и творчество. Ребята учатся основам компьютерной грамотности и делают первые шаги в программировании с помощью интерактивных платформ, таких как ScratchJr, CodeMonkey и Blockly. Занятия развивают логическое мышление, внимание и уверенность в работе с компьютером
+                            </p>
+                            <a href="#" class="btn btn-learn-more">LEARN MORE</a>
+                        </div>
+                    </div>
+                </section>
+                <section class="gradient-overlay-block fullwidth-fix gradient-overlay-block3">
+                    <div class="gradient-layer"></div>
+                    <div class="scratch-section">
+                        <div class="scratch-left">
+                            <img src="/wp-content/themes/neuronaikids-theme/assets/images/camps%20bg.webp" alt="BG Shape" class="scratch-bg">
+                            <img src="/wp-content/themes/neuronaikids-theme/assets/images/server.jpg" alt="Scratch Demo" class="scratch-foreground">
+                        </div>
+
+                        <div class="scratch-right">
+                            <p class="scratch-age scratch-age3">ВОЗРАСТ ОТ 5 ДО 7 ЛЕТ</p>
+                            <h3 class="scratch-heading">Знакомство с компьютером и первые шаги в программировании</h3>
+                            <h2 class="scratch-title scratch-title3">JUNIOR</h2>
+                            <p class="scratch-description">
+                                Это увлекательное погружение в мир технологий через игру и творчество. Ребята учатся основам компьютерной грамотности и делают первые шаги в программировании с помощью интерактивных платформ, таких как ScratchJr, CodeMonkey и Blockly. Занятия развивают логическое мышление, внимание и уверенность в работе с компьютером
+                            </p>
+                            <a href="#" class="btn btn-learn-more">LEARN MORE</a>
+                        </div>
+                    </div>
+                </section>
+
             </div>
             <div class="bubble bubble-1"></div>
             <div class="bubble bubble-2"></div>
